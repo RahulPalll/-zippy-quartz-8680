@@ -1,0 +1,16 @@
+Day2-header section--------------->>>>>logo-----navbar
+
+
+day3-signin
+     signup,
+     cart
+     landing page,
+     
+
+
+day 4-category wise layout(5)
+
+
+day5-    backlogs,
+         more features,
+          responsive
